@@ -1,4 +1,3 @@
-
 # Kotlin in Action 2/e 도서 스터디
 
 ---
@@ -8,7 +7,6 @@
 - **시간 : 18:30**
 - **장소 : 오프라인**
 - **보증금: 20,000**
-
 
 <br>
 
@@ -65,13 +63,12 @@
 
 1. Repository를`clone`해주세요.
 2. `main`브랜치에서 [아이디] 브랜치를 만들어주세요.
-   - eg)`kevin`
+    - eg)`kevin`
 3. `[아이디]`브랜치에서 챕터 디렉터리 하위에 본인의 폴더에 정리한 내용을 push 해주세요.
-   - eg)`1챕터/김OO/README.md`
+    - eg)`1챕터/김OO/README.md`
 4. `[아이디]`브랜치에서`main`브랜치로`PR(Pull Request)`를 보내주세요.
-   - eg)`docs: O주차 챕터 내용 학습`
+    - eg)`docs: O주차 챕터 내용 학습`
 5. `PR`은 다음 주차에 `추가 Discussion` 의견 교환 완료 후 전주 가장 늦은 제출자가 머지 후 `README.md 타임라인` 까지 작성해요.
-
 
 <br>
 
@@ -79,26 +76,25 @@
 
 ---
 
-| chapter |      date      |  발표자  |   질문   |
-|:-------:|:--------------:|:-----:|:------:|
-| chap 1  | 2025.04.08 (화) | Kevin | [링크](https://github.com/DevNLearn/kotlin-in-action-2-e/discussions/1) |
-| chap 2  | 2025.04.08 (화) | Kevin | [링크](https://github.com/DevNLearn/kotlin-in-action-2-e/discussions/1) |
-| chap 3  | 2025.04.15 (화) |       | [링크]() |
-| chap 4  | 2025.04.15 (화) |       | [링크]() |
-| chap 5  | 2025.04.22 (화) |       | [링크]() |
-| chap 6  | 2025.04.22 (화) |       | [링크]() |
-| chap 7  | 2025.04.29 (화) |       | [링크]() |
-| chap 8  | 2025.04.29 (화) |       | [링크]() |
-|    -    | 2025.05.06 (화) |   -   |   -    |
-| chap 9  | 2025.05.13 (화) |       | [링크]() |
-| chap 10 | 2025.05.13 (화) |       | [링크]() |
-| chap 11 | 2025.05.20 (화) |       | [링크]() |
-| chap 12 | 2025.05.20 (화) |       | [링크]() |
-| chap 13 | 2025.05.27 (화) |       | [링크]() |
-| chap 14 | 2025.05.27 (화) |       | [링크]() |
-|    -    | 2025.06.03 (화) |   -   |   -    |
-| chap 15 | 2025.06.10 (화) |       | [링크]() |
-| chap 16 | 2025.06.10 (화) |       | [링크]() |
-| chap 17 | 2025.06.17 (화) |       | [링크]() |
-| chap 18 | 2025.06.17 (화) |       | [링크]() |
+| chapter |      date      |  발표자  |                                    질문                                    |
+|:-------:|:--------------:|:-----:|:------------------------------------------------------------------------:|
+| chap 1  | 2025.04.08 (화) | Kevin | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2-e/discussions/1) |
+| chap 2  | 2025.04.08 (화) | Kevin | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2-e/discussions/1) |
+| chap 3  | 2025.04.15 (화) | Kevin | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/10) |
+| chap 4  | 2025.04.15 (화) | Rosy  | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/10) |
+| chap 5  | 2025.04.22 (화) | Noah  | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/19) |
+| chap 6  | 2025.04.22 (화) |  Ria  | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/19) |
+| chap 7  | 2025.04.29 (화) | Kevin | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/25) |
+| chap 8  | 2025.04.29 (화) | Noah  | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/25) |
+|    -    | 2025.05.06 (화) |   -   |                                    -                                     |
+| chap 9  | 2025.05.13 (화) | Kevin | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/34) |
+| chap 10 | 2025.05.20 (화) | Millo | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/34) |
+| chap 11 | 2025.05.27 (화) | Rosy  | [질문 링크](https://github.com/DevNLearn/kotlin-in-action-2e/discussions/43) |
+|    -    | 2025.06.03 (화) |   -   |                                    -                                     |
+| chap 13 | 2025.06.10 (화) |       |                                [질문 링크]()                                 |
+| chap 14 | 2025.06.17 (화) |       |                                [질문 링크]()                                 |
+| chap 15 | 2025.06.24 (화) |       |                                [질문 링크]()                                 |
+| chap 16 | 2025.07.01 (화) |       |                                [질문 링크]()                                 |
+| chap 17 | 2025.07.08 (화) |       |                                [질문 링크]()                                 |
+| chap 18 | 2025.07.15 (화) |       |                                [질문 링크]()                                 |
 
